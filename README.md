@@ -1,4 +1,4 @@
-# 365 Days of GFG
+# 365 Days of Leetcode
 
 Solving one problem every day.
 
