@@ -1,10 +1,8 @@
-# 🔥 LeetCode 365 Streak
+# 365 Days of GFG
 
-**2 / 365 problems solved**
+Solving one problem every day.
 
 ---
 
-| # | Problem |
-|---|--------|
-| 1 / 365 | two sum |
-
+Day 001 — Two Sum  
+Day 002 — Reverse a Linked List
