@@ -12,3 +12,4 @@ Day 005— Earliest Finish Time
 Day 006—  Total Waviness of Numbers in Range |
 Day 007 — Total Waviness of Numbers in Range ||
 Day 008 — Lexicographically smallest after removing k
+Day 009 — Left and Right Sum Difference
