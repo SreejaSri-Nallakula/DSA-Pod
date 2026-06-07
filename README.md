@@ -21,3 +21,5 @@ Day 007 — Total Waviness of Numbers in Range ||
 Day 008 — Lexicographically smallest after removing k
 
 Day 009 — Left and Right Sum Difference
+
+Day 010 — Create binary tree from description
